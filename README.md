@@ -5,12 +5,14 @@
 
 <table>
 <tr>
-<th>results</th>
-<th>sample</th>
+<th>train results</th>
+<th>detect sample1</th>
+  <th>detect sample1</th>
 </tr>
 <tr>
 <td><img src="./.asset/results.png" width="540"></td>
 <td><img src="./.asset/zidane.jpg" width="500"></td> 
+<td><img src="./.asset/273271,6a240004c249873.jpg" width="500"></td> 
 </tr>
 </table>
 
