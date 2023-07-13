@@ -1,7 +1,7 @@
 # YOLOMT
 
 ##
-1.基于yolo的多任务检测模型,同时对人体的多个信息进行检测,包括人体朝向,人头朝向以及人头关键点的检测
+1.This is a multi-task model base yolo,detect human pose,face pose and face landmark
 
 <table>
 <tr>
@@ -13,3 +13,5 @@
 <td><img src="./.asset/zidane.jpg" width="500"></td> 
 </tr>
 </table>
+
+2.More detection results can be seen in the. asset folder
