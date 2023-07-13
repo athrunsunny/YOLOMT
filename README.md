@@ -5,8 +5,8 @@
 
 <table>
 <tr>
-<th>Examples of COCO-MEBOW with full labels</th>
-<th>The overall architecture of JointBDOE</th>
+<th>results</th>
+<th>sample</th>
 </tr>
 <tr>
 <td><img src="./.asset/results.png" width="540"></td>
