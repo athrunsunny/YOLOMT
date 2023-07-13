@@ -7,7 +7,7 @@
 <tr>
 <th>train results</th>
 <th>detect sample1</th>
-  <th>detect sample1</th>
+  <th>detect sample2</th>
 </tr>
 <tr>
 <td><img src="./.asset/results.png" width="540"></td>
