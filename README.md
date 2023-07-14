@@ -1,7 +1,7 @@
 # YOLOMT
 
 ##
-1.This is a multi-task model base yolo,detect human pose,face pose and face landmark
+1.This is a multi-task model base yolo,detect human orientation,face pose and face landmark
 
 <table>
 <tr>
