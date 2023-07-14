@@ -24,7 +24,7 @@
 ### 1.run
 
 ```bash
-python detect.py --source 0  # webcam --weights yolomt.onnx
+python detect.py --weights yolomt.onnx --source 0  # webcam 
                           img.jpg  # image
                           vid.mp4  # video
                           path/  # directory
