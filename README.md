@@ -24,12 +24,5 @@
 ### 1.run
 
 ```bash
-python detect.py --weights yolomt.onnx --source 0  # webcam 
-                          img.jpg  # image
-                          vid.mp4  # video
-                          path/  # directory
-                          'path/*.jpg'  # glob
-                          'https://youtu.be/Zgi9g1ksQHc'  # YouTube
-                          'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
-
+python detect.py --weights yolomt.onnx --source your_img.jpg  # image
 ```
