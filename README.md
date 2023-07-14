@@ -3,6 +3,10 @@
 ##
 1.This is a multi-task model base yolo,detect human orientation,face pose and face landmark
 
+<details>
+<summary>backcone</summary>
+<img src="./.asset/backbone.jpg" width="500">
+  
 <table>
 <tr>
 <th>train results</th>
