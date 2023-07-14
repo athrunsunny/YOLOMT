@@ -19,9 +19,9 @@
 2.More detection results can be seen in the. asset folder
 
 <details>
-<summary>Valid</summary>
+<summary>demo</summary>
 
-### 1.demo
+### 1.run
 
 ```bash
 python detect.py --source 0  # webcam --weights yolomt.onnx
