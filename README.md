@@ -28,5 +28,5 @@ python detect.py --weights yolomt.onnx --source your_img.jpg  # image
 ```
 
 ### 2.pretrain weight
-[[Baidu Drive](https://pan.baidu.com/s/1paoOpusuyafHY154lqXYrA)]
+[[Baidu Drive](https://pan.baidu.com/s/1paoOpusuyafHY154lqXYr)]
 
