@@ -35,6 +35,7 @@ python detect.py --weights yolomt.onnx --source your_img.jpg  # image
 
 <details open>
 <summary>backbone</summary>
+This backbone diagram is a rough illustration, and the actual implementation may differ from the diagram
 
 <img src="./.asset/backbone.jpg" width="540">
 
