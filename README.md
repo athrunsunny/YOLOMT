@@ -17,3 +17,19 @@
 </table>
 
 2.More detection results can be seen in the. asset folder
+
+<details>
+<summary>Valid</summary>
+
+### 1.demo
+
+```bash
+python detect.py --source 0  # webcam --weights yolomt.onnx
+                          img.jpg  # image
+                          vid.mp4  # video
+                          path/  # directory
+                          'path/*.jpg'  # glob
+                          'https://youtu.be/Zgi9g1ksQHc'  # YouTube
+                          'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
+
+```
