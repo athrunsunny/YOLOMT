@@ -33,8 +33,8 @@ python detect.py --weights yolomt.onnx --source your_img.jpg  # image
 </details>
 
 
-<details> 
-<summary>Training</summary>
+<details open>
+<summary>backbone</summary>
 
 <img src="./.asset/backbone.jpg" width="540">
 
