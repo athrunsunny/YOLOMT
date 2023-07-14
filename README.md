@@ -31,6 +31,7 @@ python detect.py --weights yolomt.onnx --source your_img.jpg  # image
 [[Baidu Drive](https://pan.baidu.com/s/16K9GPjfYBkiUVip2qUgeYA?pwd=7b4x)]
 
 <details>
+<details> 
 <summary>Training</summary>
 
 The commands below reproduce YOLOv5 [COCO](https://github.com/ultralytics/yolov5/blob/master/data/scripts/get_coco.sh)
